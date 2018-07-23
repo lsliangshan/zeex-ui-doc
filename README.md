@@ -2,4 +2,4 @@
 
 > weex常用组件封装
 
-[文档](https://lsliangshan.github.io/zeex-ui-doc/)
+<a href="https://lsliangshan.github.io/zeex-ui-doc/" target="_blank">文档</a>
