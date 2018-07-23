@@ -1,2 +1,3 @@
-# zeex-ui-doc
-zpm weex ui doc
+# zeex ui
+
+> weex常用组件封装
